@@ -1,6 +1,6 @@
 [![CV](https://img.shields.io/badge/CV-PDF-555?style=flat-square)](https://github.com/tomasbjerre/cv/blob/master/tomasbjerre.cv.eng.pdf)
 [![Maven Central](https://img.shields.io/badge/Maven_Central-search-C71A36?style=flat-square&logo=apachemaven&logoColor=white)](https://central.sonatype.com/search?contributor=tomas.bjerre85%40gmail.com)
+[![Gradle Plugin Portal](https://img.shields.io/badge/Gradle_Plugin_Portal-profile-02303A?style=flat-square&logo=gradle&logoColor=white)](https://plugins.gradle.org/u/tomasbjerre)
 [![npm](https://img.shields.io/badge/npm-profile-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~tomasbjerre)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-profile-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/tomasbjerre)
-[![Gradle Plugin Portal](https://img.shields.io/badge/Gradle_Plugin_Portal-profile-02303A?style=flat-square&logo=gradle&logoColor=white)](https://plugins.gradle.org/u/tomasbjerre)
 [![Jenkins Plugins](https://img.shields.io/badge/Jenkins-plugins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://plugins.jenkins.io/ui/search/?query=tomasbjerre)
